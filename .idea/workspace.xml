@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="481be89d-d0a9-406f-ae37-0a9db048e2dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File create_read and write.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="481be89d-d0a9-406f-ae37-0a9db048e2dd" name="Changes" comment="sdsd">
+      <change afterPath="$PROJECT_DIR$/src/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/write.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teacher.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Teacher.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +36,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Buffer.executor": "Run",
     "Application.File_Read.executor": "Run",
     "Application.File_Write.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.write.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/src",
     "onboarding.tips.debug.path": "E:/Java New/File create_read and write/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.File_Read">
+  <component name="RunManager" selected="Application.Buffer">
+    <configuration name="Buffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Buffer" />
+      <module name="File create_read and write" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="File_Read" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="File_Read" />
       <module name="File create_read and write" />
@@ -63,8 +70,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="write" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="write" />
+      <module name="File create_read and write" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Buffer" />
+        <item itemvalue="Application.write" />
         <item itemvalue="Application.File_Read" />
         <item itemvalue="Application.File_Write" />
       </list>
@@ -79,6 +95,30 @@
       <option name="presentableId" value="Default" />
       <updated>1727907763950</updated>
     </task>
+    <task id="LOCAL-00001" summary="sdsd">
+      <option name="closed" value="true" />
+      <created>1727965141211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727965141211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sdsd" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdsd" />
   </component>
 </project>
